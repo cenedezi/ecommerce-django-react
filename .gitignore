@@ -1,0 +1,26 @@
+# Ignorar diretórios de dependências do Node.js
+node_modules/
+
+# Ignorar diretórios de build do React
+build/
+
+# Ignorar arquivos de configuração da IDE
+.idea/
+
+# Ignorar arquivos de banco de dados SQLite (Django)
+*.sqlite3
+
+# Ignorar arquivos temporários de editor/IDE
+*.log
+*.swp
+
+# Ignorar arquivos de sistema do Windows
+Thumbs.db
+Desktop.ini
+
+# Ignorar arquivos específicos do Django
+*.pyc
+__pycache__/
+
+# Ignorar arquivos do sistema
+.DS_Store  # Para MacOS
